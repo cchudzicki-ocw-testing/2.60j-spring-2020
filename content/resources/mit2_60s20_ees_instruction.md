@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: 2.60 S2020 EES Access Instructions
-type: OCWFile
 uid: 9e0f183f-f016-1572-b735-ccf18d7e3573
 ---

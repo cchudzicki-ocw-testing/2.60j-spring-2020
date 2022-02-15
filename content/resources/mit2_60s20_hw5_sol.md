@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 2.60 S2020 Homework 5 Solutions
-type: OCWFile
 uid: 8cf3323e-47b7-8231-e1df-ffcdc7612715
 ---

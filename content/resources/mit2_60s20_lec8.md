@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.60 S2020 Lecture 8: Electrochemical Thermodynamics '
-type: OCWFile
 uid: acf2690c-4052-5bd6-ac26-b3f1e43eb542
 ---

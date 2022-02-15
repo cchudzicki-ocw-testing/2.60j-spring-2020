@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.60 S2020 Lecture 4: Liquefaction and Gas Storage'
-type: OCWFile
 uid: c4ec953d-d686-f810-c185-8af2c3544343
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.60 S2020 Lecture 5: Chemical Thermodynamics I'
-type: OCWFile
 uid: 14a05eef-6de3-152e-00ec-832f9d72e903
 ---

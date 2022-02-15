@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.60 S2020 Lecture 2: Thermodynamics and Tools to Analyze Conversion Efficiency'
-type: OCWFile
 uid: 54a791b8-98a3-1bef-eea1-78f796efcd9c
 ---

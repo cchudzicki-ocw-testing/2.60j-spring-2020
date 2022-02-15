@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.60 S2020 Lecture 1: Introduction, Energy Challenges'
-type: OCWFile
 uid: ec8ff11d-847a-e89a-6c87-3c2fa1837adf
 ---
